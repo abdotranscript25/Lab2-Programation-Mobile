@@ -51,8 +51,5 @@ https://drive.google.com/file/d/17Uo_CJzJulnZW4Puk3xF3dv6iMKzllk9/view?usp=shari
 - `app/src/main/java/com/example/lab2/MainActivity.java` : Code principal avec la logique de calcul
 - `app/src/main/res/layout/activity_main.xml` : Interface utilisateur avec les champs de saisie
 - `Screenshots/` : Captures d'écran et vidéo de démonstration
-- `app/src/main/java/com/example/lab2/MainActivity.java` : Code principal avec la logique de calcul
-- `app/src/main/res/layout/activity_main.xml` : Interface utilisateur avec les champs de saisie
-- `Screenshots/` : Captures d'écran et vidéo de démonstration
 
 
