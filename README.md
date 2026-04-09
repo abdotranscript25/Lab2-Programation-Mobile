@@ -45,7 +45,11 @@ Elle permet de calculer le montant total des impôts locaux en fonction de la su
 
 ##   Démonstration vidéo
 
-https://drive.google.com/file/d/17Uo_CJzJulnZW4Puk3xF3dv6iMKzllk9/view?usp=sharing
+
+https://github.com/user-attachments/assets/b9635424-5768-4004-90fc-33fa653c304d
+
+
+
 
 ##   Structure du projet
 - `app/src/main/java/com/example/lab2/MainActivity.java` : Code principal avec la logique de calcul
